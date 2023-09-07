@@ -1,3 +1,3 @@
-# BeTheHero-Api
+# Be The Hero Api
 
-API desenvolvida em Node JS durante a Semana Omnistack 11 da Rocketseat.
+API developed in Node JS during Omnistack Week 11, from Rocketseat.
